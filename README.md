@@ -2,10 +2,12 @@
 
 <p>What to download?</p>
 <p>Pygame: </p>
+
 ```
 pip3 install pygame
 ``` 
-<p>itertool: </p>
+<p>Itertool: </p>
+
 ```
 pip3 install itertools
 ```
