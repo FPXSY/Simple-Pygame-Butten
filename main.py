@@ -28,7 +28,7 @@ def Update_display():
     button_1.draw(screen, True, (255,255,255))
     button_1.font(screen, "arial", 40, True)
     if (button_1.get_clicked() == True):
-        pygame.draw.rect(screen, next(calor_rainbow), rect_1, 0)
+        pygame.draw.rect(screen, next(rainbow_color), rect_1, 0)
         pygame.time.delay(50)
     elif (button_1.get_clicked() == False):
         pygame.draw.rect(screen, Red, rect_1, 0)
