@@ -5,7 +5,7 @@
 > <p>What you need to download is the button.py the main.py this is an example of how to use.</p>
 
 ## <p>What to download?</p>
-> [!NOTE]
+> [!RECWIRED]
 > <p>Pygame: </p>
 >
 > ```
