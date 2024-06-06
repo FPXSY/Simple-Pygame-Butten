@@ -1,8 +1,8 @@
 # Simple Pygame Butten Class
 > [!IMPORTANT]
 > <p>Why use this and not something more sophisticated?</p>
-> <p>It's a simple class without a lot of code suitable for small projects that need to run fast.</p>
-> What you need to download is the **button.py** the **main.py** this is an example of how to use.
+> It's a simple class without a lot of code suitable for small projects that need to run fast.
+> What you need to download is the **button.py** the __main.py__ this is an example of how to use.
 
 ## <p>What to download?</p>
  RECWIRED
